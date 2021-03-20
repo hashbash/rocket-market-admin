@@ -11,7 +11,7 @@ Flask-BabelEx==0.9.4
 Flask-SQLAlchemy==2.4.4
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 psycopg2-binary==2.8.5
 python-dateutil==2.8.1
